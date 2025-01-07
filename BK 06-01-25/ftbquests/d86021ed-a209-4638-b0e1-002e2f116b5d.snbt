@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "d86021eda2094638b0e1002e2f116b5d"
+	name: "Pengosonic"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: true
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

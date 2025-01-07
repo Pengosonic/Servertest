@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "f4ac5892e09a49e78e65a6d1a56ff87b"
+	name: "Pengosonic's Party"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

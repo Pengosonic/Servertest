@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "f59d1d546c0037a9990368aebf3ba3df"
+	name: "Stevix236"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
